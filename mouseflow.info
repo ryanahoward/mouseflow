@@ -1,0 +1,7 @@
+name = "Mouseflow"
+description = "Enable Mouseflow tracking script. Requires API key."
+package = "Other"
+core = 7.x
+version = "7.x-1.0"
+
+files[] = mouseflow.module
